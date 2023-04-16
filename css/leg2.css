@@ -1,0 +1,11 @@
+.parent-container {
+    display: flex;
+}
+
+.right-container {
+    width: 50%;
+}
+
+.left-container {
+    width: 50%;
+}
